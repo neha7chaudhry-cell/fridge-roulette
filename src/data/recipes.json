@@ -1,0 +1,569 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "One-Pan Chicken & Broccoli Rice",
+      "time": 25,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "chicken breast (1 lb, diced)",
+        "broccoli (2 cups, chopped)",
+        "onion (1 medium, diced)",
+        "cheese (1/2 cup, shredded)"
+      ],
+      "steps": [
+        "Heat 1 tbsp oil in large pan over medium-high heat",
+        "Add diced chicken, season with salt and pepper, cook 5-6 minutes until browned",
+        "Add broccoli and onions, cook 3 minutes until slightly tender",
+        "Add 1 cup rice and 2 cups water or broth, bring to boil",
+        "Reduce heat to low, cover, simmer 15 minutes until rice is cooked",
+        "Sprinkle cheese on top, cover for 1 minute to melt, serve hot"
+      ],
+      "tags": ["one-pan", "kid-friendly"]
+    },
+    {
+      "id": 2,
+      "name": "Quick Beef Tacos",
+      "time": 20,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "ground beef (1 lb)",
+        "onion (1 small, diced)",
+        "tomatoes (2 medium, diced)",
+        "cheese (1 cup, shredded)",
+        "tortillas (8 small)"
+      ],
+      "steps": [
+        "Brown ground beef in skillet over medium-high heat, breaking into crumbles",
+        "Add diced onion, cook 3 minutes until softened",
+        "Add 1 tsp cumin, 1/2 tsp garlic powder, salt to taste",
+        "Warm tortillas in microwave for 30 seconds",
+        "Fill tortillas with beef mixture",
+        "Top with diced tomatoes and shredded cheese"
+      ],
+      "tags": ["kid-friendly", "quick"]
+    },
+    {
+      "id": 3,
+      "name": "Cheesy Scrambled Eggs with Toast",
+      "time": 15,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "eggs (8 large)",
+        "cheese (1/2 cup, shredded)",
+        "butter (2 tbsp)",
+        "bread (4 slices)",
+        "spinach (1 cup, chopped)"
+      ],
+      "steps": [
+        "Whisk eggs with 2 tbsp milk, salt, and pepper",
+        "Melt butter in non-stick pan over medium-low heat",
+        "Add spinach, cook 1 minute until wilted",
+        "Pour in eggs, gently stir with spatula as they cook",
+        "When almost set, fold in cheese",
+        "Toast bread and serve eggs alongside"
+      ],
+      "tags": ["breakfast-for-dinner", "quick", "vegetarian"]
+    },
+    {
+      "id": 4,
+      "name": "Turkey & Veggie Stir-Fry",
+      "time": 20,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "ground turkey (1 lb)",
+        "bell peppers (2, sliced)",
+        "broccoli (2 cups, florets)",
+        "carrots (2, sliced thin)",
+        "onion (1 medium, sliced)"
+      ],
+      "steps": [
+        "Cook ground turkey in large skillet until browned, set aside",
+        "Add 1 tbsp oil to same pan, add carrots and cook 2 minutes",
+        "Add bell peppers, broccoli, and onion, stir-fry 4-5 minutes",
+        "Return turkey to pan",
+        "Add 3 tbsp soy sauce and 1 tsp sesame oil, toss to combine",
+        "Serve over rice or noodles"
+      ],
+      "tags": ["stir-fry", "healthy"]
+    },
+    {
+      "id": 5,
+      "name": "Simple Baked Chicken Thighs with Potatoes",
+      "time": 30,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "chicken breast (1.5 lbs)",
+        "potatoes (1.5 lbs, cubed)",
+        "carrots (3, chunked)",
+        "onion (1, quartered)"
+      ],
+      "steps": [
+        "Preheat oven to 425°F",
+        "Toss potatoes, carrots, and onion with 2 tbsp oil, salt, pepper",
+        "Spread vegetables on sheet pan",
+        "Season chicken with salt, pepper, paprika, place on top of veggies",
+        "Roast 25 minutes until chicken reaches 165°F",
+        "Let rest 5 minutes before serving"
+      ],
+      "tags": ["sheet-pan", "one-pan"]
+    },
+    {
+      "id": 6,
+      "name": "Creamy Tomato Pasta",
+      "time": 20,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "tomatoes (1 can diced, 14 oz)",
+        "cheese (1/2 cup parmesan, grated)",
+        "spinach (2 cups)",
+        "butter (2 tbsp)"
+      ],
+      "steps": [
+        "Cook 1 lb pasta according to package, reserve 1 cup pasta water",
+        "In large pan, melt butter over medium heat",
+        "Add canned tomatoes with juice, simmer 5 minutes",
+        "Stir in 1/4 cup cream or milk and parmesan cheese",
+        "Add spinach, stir until wilted",
+        "Toss with pasta, adding pasta water to reach desired consistency"
+      ],
+      "tags": ["pasta", "vegetarian", "quick"]
+    },
+    {
+      "id": 7,
+      "name": "Beef & Broccoli",
+      "time": 25,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "ground beef (1 lb)",
+        "broccoli (4 cups, florets)",
+        "onion (1, sliced)",
+        "carrots (2, sliced)"
+      ],
+      "steps": [
+        "Brown ground beef in large skillet, drain excess fat",
+        "Add sliced onion and carrots, cook 3 minutes",
+        "Add broccoli florets and 1/4 cup water, cover and steam 4 minutes",
+        "Mix 3 tbsp soy sauce, 1 tbsp brown sugar, 1 tsp garlic",
+        "Pour sauce over beef and veggies, toss to coat",
+        "Serve over steamed rice"
+      ],
+      "tags": ["asian-inspired", "kid-friendly"]
+    },
+    {
+      "id": 8,
+      "name": "Quesadillas with Chicken",
+      "time": 20,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "chicken breast (1 lb, cooked and shredded)",
+        "cheese (2 cups, shredded)",
+        "bell peppers (1, diced)",
+        "onion (1/2, diced)",
+        "tortillas (8 large)"
+      ],
+      "steps": [
+        "Sauté bell peppers and onion until soft, about 4 minutes",
+        "Mix cooked vegetables with shredded chicken",
+        "Place tortilla in dry skillet over medium heat",
+        "Add cheese to half, top with chicken mixture, fold over",
+        "Cook 2-3 minutes per side until golden and cheese melts",
+        "Cut into wedges, serve with salsa or sour cream"
+      ],
+      "tags": ["kid-friendly", "quick"]
+    },
+    {
+      "id": 9,
+      "name": "Egg Fried Rice",
+      "time": 15,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "eggs (4)",
+        "frozen veg (2 cups, peas and carrots)",
+        "onion (1 small, diced)",
+        "butter (2 tbsp)"
+      ],
+      "steps": [
+        "Scramble eggs in large pan, set aside and chop into pieces",
+        "Add butter to pan, sauté onion 2 minutes",
+        "Add 4 cups cold cooked rice, stir-fry 3-4 minutes",
+        "Add frozen vegetables, cook until heated through",
+        "Add eggs back to pan with 3 tbsp soy sauce",
+        "Toss everything together and serve"
+      ],
+      "tags": ["quick", "kid-friendly", "uses-leftovers"]
+    },
+    {
+      "id": 10,
+      "name": "Tuna Melts",
+      "time": 15,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "canned tuna (2 cans, drained)",
+        "cheese (4 slices)",
+        "bread (8 slices)",
+        "tomatoes (1, sliced)",
+        "butter (2 tbsp)"
+      ],
+      "steps": [
+        "Mix tuna with 3 tbsp mayo, salt, and pepper",
+        "Butter one side of each bread slice",
+        "Place 4 slices butter-side down in skillet",
+        "Top with tuna mixture, tomato slices, and cheese",
+        "Add remaining bread slices, butter-side up",
+        "Cook 3-4 minutes per side until golden and cheese melts"
+      ],
+      "tags": ["sandwich", "quick"]
+    },
+    {
+      "id": 11,
+      "name": "Sheet Pan Sausage & Vegetables",
+      "time": 25,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "pork chops (4, or sausage links)",
+        "bell peppers (2, chunked)",
+        "potatoes (1 lb, cubed)",
+        "onion (1, chunked)",
+        "zucchini (1, sliced)"
+      ],
+      "steps": [
+        "Preheat oven to 400°F",
+        "Toss potatoes with 1 tbsp oil, spread on sheet pan, roast 10 minutes",
+        "Toss peppers, onion, and zucchini with 1 tbsp oil",
+        "Add vegetables and sausage to pan with potatoes",
+        "Roast 15 minutes until sausage is cooked through",
+        "Season with Italian herbs and serve"
+      ],
+      "tags": ["sheet-pan", "one-pan"]
+    },
+    {
+      "id": 12,
+      "name": "Creamy Chicken & Spinach",
+      "time": 25,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "chicken breast (1.5 lbs, sliced thin)",
+        "spinach (4 cups)",
+        "cheese (1/2 cup parmesan)",
+        "butter (2 tbsp)",
+        "onion (1 small, diced)"
+      ],
+      "steps": [
+        "Season chicken with salt, pepper, and garlic powder",
+        "Cook chicken in butter until golden, about 5 minutes per side, set aside",
+        "Sauté onion in same pan 2 minutes",
+        "Add 1 cup chicken broth and 1/2 cup cream, simmer 3 minutes",
+        "Stir in spinach until wilted, add parmesan",
+        "Return chicken to pan, simmer 2 minutes, serve over pasta or rice"
+      ],
+      "tags": ["creamy", "kid-friendly"]
+    },
+    {
+      "id": 13,
+      "name": "Simple Shrimp Stir-Fry",
+      "time": 20,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "shrimp (1 lb, peeled)",
+        "broccoli (2 cups, florets)",
+        "bell peppers (2, sliced)",
+        "carrots (2, sliced thin)"
+      ],
+      "steps": [
+        "Cook shrimp in 1 tbsp oil until pink, about 3 minutes, set aside",
+        "Add carrots to pan, cook 2 minutes",
+        "Add broccoli and bell peppers, stir-fry 4 minutes",
+        "Return shrimp to pan",
+        "Add 3 tbsp soy sauce and 1 tsp honey, toss to coat",
+        "Serve over rice"
+      ],
+      "tags": ["seafood", "quick", "healthy"]
+    },
+    {
+      "id": 14,
+      "name": "Cheesy Baked Potatoes",
+      "time": 30,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "potatoes (4 large)",
+        "cheese (1 cup, shredded)",
+        "butter (4 tbsp)",
+        "sour cream (1/2 cup)",
+        "broccoli (2 cups, steamed)"
+      ],
+      "steps": [
+        "Microwave potatoes 10-12 minutes until fork-tender",
+        "Steam broccoli until tender, about 5 minutes",
+        "Cut potatoes open, fluff insides with fork",
+        "Add 1 tbsp butter and 2 tbsp sour cream to each potato",
+        "Top with broccoli and shredded cheese",
+        "Microwave 1 minute to melt cheese, serve immediately"
+      ],
+      "tags": ["vegetarian", "kid-friendly"]
+    },
+    {
+      "id": 15,
+      "name": "Ground Turkey Taco Bowls",
+      "time": 20,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "ground turkey (1 lb)",
+        "tomatoes (2, diced)",
+        "cheese (1 cup, shredded)",
+        "onion (1 small, diced)",
+        "bell peppers (1, diced)"
+      ],
+      "steps": [
+        "Brown ground turkey with onion in large skillet",
+        "Add bell peppers, cook 3 minutes",
+        "Season with 1 tbsp taco seasoning and 1/4 cup water",
+        "Simmer 5 minutes until sauce thickens",
+        "Serve over rice or tortilla chips",
+        "Top with tomatoes, cheese, and sour cream"
+      ],
+      "tags": ["bowl", "kid-friendly"]
+    },
+    {
+      "id": 16,
+      "name": "Veggie Egg Muffins",
+      "time": 25,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "eggs (8)",
+        "cheese (1/2 cup, shredded)",
+        "spinach (1 cup, chopped)",
+        "bell peppers (1, diced)",
+        "onion (1/2, diced)"
+      ],
+      "steps": [
+        "Preheat oven to 350°F, grease 12-cup muffin tin",
+        "Whisk eggs with salt, pepper, and 2 tbsp milk",
+        "Divide spinach, peppers, and onion among muffin cups",
+        "Pour egg mixture over vegetables",
+        "Top each with shredded cheese",
+        "Bake 18-20 minutes until set, let cool 2 minutes before removing"
+      ],
+      "tags": ["breakfast-for-dinner", "make-ahead", "vegetarian"]
+    },
+    {
+      "id": 17,
+      "name": "Chicken Caesar Wraps",
+      "time": 15,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "chicken breast (1 lb, cooked and sliced)",
+        "cheese (1/2 cup parmesan, shredded)",
+        "tomatoes (1, diced)",
+        "tortillas (4 large)"
+      ],
+      "steps": [
+        "Chop or shred cooked chicken",
+        "Toss chicken with 1/4 cup Caesar dressing",
+        "Warm tortillas in microwave 20 seconds",
+        "Layer romaine lettuce on each tortilla",
+        "Add chicken, tomatoes, and parmesan cheese",
+        "Roll up tightly, cut in half diagonally, serve"
+      ],
+      "tags": ["wrap", "no-cook", "quick"]
+    },
+    {
+      "id": 18,
+      "name": "Beef & Vegetable Soup",
+      "time": 30,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "ground beef (1 lb)",
+        "potatoes (2, cubed)",
+        "carrots (2, sliced)",
+        "tomatoes (1 can diced, 14 oz)",
+        "green beans (1 cup)"
+      ],
+      "steps": [
+        "Brown ground beef in large pot, drain excess fat",
+        "Add 4 cups beef broth and canned tomatoes",
+        "Add potatoes and carrots, bring to boil",
+        "Reduce heat, simmer 15 minutes",
+        "Add green beans, cook 5 more minutes until vegetables are tender",
+        "Season with salt, pepper, and Italian herbs, serve with bread"
+      ],
+      "tags": ["soup", "comfort-food"]
+    },
+    {
+      "id": 19,
+      "name": "Tofu Veggie Stir-Fry",
+      "time": 20,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "tofu (14 oz, pressed and cubed)",
+        "broccoli (2 cups, florets)",
+        "bell peppers (2, sliced)",
+        "carrots (2, sliced)",
+        "onion (1, sliced)"
+      ],
+      "steps": [
+        "Press tofu dry, cut into cubes",
+        "Fry tofu in 2 tbsp oil until golden on all sides, about 8 minutes",
+        "Remove tofu, add carrots to pan, cook 2 minutes",
+        "Add broccoli, peppers, and onion, stir-fry 5 minutes",
+        "Mix 3 tbsp soy sauce, 1 tbsp maple syrup, 1 tsp cornstarch",
+        "Return tofu, add sauce, cook 2 minutes until glossy, serve over rice"
+      ],
+      "tags": ["vegetarian", "vegan", "healthy"]
+    },
+    {
+      "id": 20,
+      "name": "Grilled Cheese & Tomato Soup",
+      "time": 20,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "cheese (8 slices)",
+        "bread (8 slices)",
+        "butter (4 tbsp)",
+        "tomatoes (1 can crushed, 28 oz)"
+      ],
+      "steps": [
+        "For soup: Simmer crushed tomatoes with 1 cup broth for 10 minutes",
+        "Add 2 tbsp butter, salt, pepper, blend if desired",
+        "For sandwiches: Butter bread slices on one side",
+        "Place 2 cheese slices between bread, butter-side out",
+        "Grill in pan 3 minutes per side until golden",
+        "Cut sandwiches diagonally, serve with warm soup"
+      ],
+      "tags": ["comfort-food", "vegetarian", "kid-favorite"]
+    },
+    {
+      "id": 21,
+      "name": "Honey Garlic Chicken",
+      "time": 25,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "chicken breast (1.5 lbs, sliced)",
+        "broccoli (2 cups, florets)",
+        "carrots (2, sliced)",
+        "butter (2 tbsp)"
+      ],
+      "steps": [
+        "Mix 3 tbsp honey, 2 tbsp soy sauce, 3 cloves minced garlic",
+        "Season chicken with salt and pepper",
+        "Cook chicken in butter until golden, about 5 minutes per side",
+        "Steam broccoli and carrots until tender, about 5 minutes",
+        "Pour honey garlic sauce over chicken, simmer 2 minutes",
+        "Serve chicken over rice with vegetables on side"
+      ],
+      "tags": ["sweet", "kid-friendly"]
+    },
+    {
+      "id": 22,
+      "name": "Cauliflower Mac & Cheese",
+      "time": 25,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "cauliflower (1 large head, florets)",
+        "cheese (2 cups, shredded cheddar)",
+        "milk (1 cup)",
+        "butter (2 tbsp)"
+      ],
+      "steps": [
+        "Cook 1 lb pasta according to package directions",
+        "Steam cauliflower until very tender, about 10 minutes",
+        "In saucepan, melt butter, whisk in 2 tbsp flour",
+        "Gradually add milk, stir until thickened",
+        "Remove from heat, stir in cheese until melted",
+        "Toss pasta and cauliflower with cheese sauce, serve hot"
+      ],
+      "tags": ["comfort-food", "kid-friendly", "hidden-veggies"]
+    },
+    {
+      "id": 23,
+      "name": "Turkey Burger Patties",
+      "time": 20,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "ground turkey (1.5 lbs)",
+        "onion (1/2, grated)",
+        "cheese (4 slices)",
+        "bread (4 buns)",
+        "tomatoes (1, sliced)"
+      ],
+      "steps": [
+        "Mix ground turkey with grated onion, salt, pepper, 1 tsp Worcestershire",
+        "Form into 4 patties, slightly larger than buns",
+        "Cook in skillet over medium-high heat, 5 minutes per side",
+        "Add cheese slice to each patty, cover to melt",
+        "Toast buns lightly in same pan",
+        "Assemble burgers with tomato and favorite toppings"
+      ],
+      "tags": ["burgers", "kid-friendly"]
+    },
+    {
+      "id": 24,
+      "name": "Sweet Potato & Black Bean Tacos",
+      "time": 25,
+      "difficulty": "Easy",
+      "servings": 4,
+      "ingredients": [
+        "sweet potatoes (2 medium, cubed)",
+        "tomatoes (2, diced)",
+        "cheese (1 cup, shredded)",
+        "tortillas (8 small)",
+        "sour cream (1/2 cup)"
+      ],
+      "steps": [
+        "Roast sweet potato cubes at 400°F for 20 minutes, or microwave 8 minutes",
+        "Heat 1 can black beans (drained) with 1/2 tsp cumin",
+        "Warm tortillas in dry skillet or microwave",
+        "Fill tortillas with sweet potatoes and black beans",
+        "Top with diced tomatoes, cheese, and sour cream",
+        "Add hot sauce if desired, serve immediately"
+      ],
+      "tags": ["vegetarian", "healthy"]
+    },
+    {
+      "id": 25,
+      "name": "Pork Chops with Green Beans",
+      "time": 25,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "pork chops (4, bone-in or boneless)",
+        "green beans (1 lb, trimmed)",
+        "potatoes (1 lb, cubed)",
+        "butter (3 tbsp)",
+        "onion (1 small, sliced)"
+      ],
+      "steps": [
+        "Season pork chops with salt, pepper, and garlic powder",
+        "Sear pork chops in 1 tbsp butter, 4 minutes per side, set aside",
+        "Boil potato cubes until tender, about 12 minutes, drain",
+        "Sauté green beans and onion in 1 tbsp butter, 6 minutes",
+        "Mash potatoes with remaining butter and splash of milk",
+        "Serve pork chops with mashed potatoes and green beans"
+      ],
+      "tags": ["classic", "comfort-food"]
+    }
+  ]
+}
