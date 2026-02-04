@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cursor:*)",
+      "Bash(open -a \"Cursor\":*)",
+      "Bash(open:*)",
+      "Bash(npm create:*)"
+    ]
+  }
+}
