@@ -6,7 +6,7 @@
 import { describe, it, expect } from 'vitest';
 import { INGREDIENTS } from './ingredients';
 import recipesData from './recipes.json';
-import { Recipe, Ingredient } from '@/types';
+import { Recipe } from '@/types';
 
 const recipes = recipesData.recipes as Recipe[];
 
